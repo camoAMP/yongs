@@ -1,6 +1,3 @@
-import { defineConfig } from "@opennextjs/cloudflare";
-
-export default defineConfig({
-  // Using defaults is fine for this app.
-});
+// Minimal OpenNext config using all defaults.
+export default {};
 
